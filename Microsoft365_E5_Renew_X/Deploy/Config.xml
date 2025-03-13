@@ -70,7 +70,7 @@
 			<!--站点新用户默认配额数-->
 			<DefaultQuota>1</DefaultQuota>
 			<!--站点自动特赦时间间隔 （单位：天 至少30天）-->
-			<AutoSpecialPardonInterval>30</AutoSpecialPardonInterval>
+			<AutoSpecialPardonInterval>1</AutoSpecialPardonInterval>
 		</System>
 	</ShareSite>
 </Configuration>
